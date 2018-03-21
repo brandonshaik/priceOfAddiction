@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1399.4 907.5" style="enable-background:new 0 0 1399.4 907.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{font-family:'Corbel';}
+	.st3{font-size:32.1768px;}
+	.st4{font-size:30px;}
+	.st5{fill:#A1A1AA;}
+	.st6{fill:#872237;}
+	.st7{font-size:18.8987px;}
+</style>
+<rect x="94.4" y="356.3" class="st0" width="15.8" height="0"/>
+<line class="st1" x1="254.4" y1="833.9" x2="254.4" y2="816.9"/>
+<line class="st1" x1="572.4" y1="834.9" x2="572.4" y2="817.9"/>
+<line class="st1" x1="891.4" y1="831.9" x2="891.4" y2="814.9"/>
+<g>
+	<text transform="matrix(0.9797 0 0 1 46.4762 733.1315)" class="st2 st3">50,000</text>
+	<text transform="matrix(0.9797 0 0 1 31.2838 636.6833)" class="st2 st3">100,000</text>
+	<text transform="matrix(0.9797 0 0 1 32.3458 540.235)" class="st2 st3">150,000</text>
+	<text transform="matrix(0.9797 0 0 1 29.3136 443.7854)" class="st2 st3">200,000</text>
+	<text transform="matrix(0.9797 0 0 1 30.3756 347.3371)" class="st2 st3">250,000</text>
+	<text transform="matrix(0.9797 0 0 1 31.1295 250.8879)" class="st2 st3">300,000</text>
+	<text transform="matrix(0.9797 0 0 1 32.192 154.4387)" class="st2 st3">350,000</text>
+</g>
+<line class="st1" x1="151.4" y1="810.9" x2="151.4" y2="134.9"/>
+<text transform="matrix(0.9797 0 0 1 1151.3219 861.8887)" class="st2 st4">1990</text>
+<text transform="matrix(0.9797 0 0 1 863.2281 861.8885)" class="st2 st4">1987</text>
+<text transform="matrix(0.9797 0 0 1 542.9225 861.8885)" class="st2 st4">1984</text>
+<text transform="matrix(0.9797 0 0 1 225.9269 861.8885)" class="st2 st4">1981</text>
+<g>
+	<polygon class="st5" points="1191.9,810.9 152.9,810.9 152.9,558 256.9,517 360.9,455.4 464.9,427.4 568.9,381.6 672.9,350.9 
+		776.9,290.5 880.9,258.2 984.8,239.2 1088.4,228 1191.9,274.2 	"/>
+</g>
+<g>
+	<polygon class="st6" points="1190.9,810.9 151.9,810.9 151.9,782.1 255.9,769.4 359.9,756.2 463.9,746.4 567.9,728 671.9,718.8 
+		775.9,699.7 879.9,683.3 983.8,671.5 1087.4,661 1190.9,683.1 	"/>
+</g>
+<line class="st1" x1="1189.4" y1="836.9" x2="1189.4" y2="819.9"/>
+<g>
+	<rect x="1135.4" y="112.7" class="st5" width="40.1" height="37.8"/>
+	<rect x="1135.4" y="159.9" class="st6" width="40.1" height="37.8"/>
+	<text transform="matrix(1.0614 0 0 1 1183.3104 138.5022)" class="st2 st7">Total Arrests</text>
+	<text transform="matrix(1.0614 0 0 1 1183.3104 178.8)" class="st2 st7">Total  Drug Arrests</text>
+</g>
+</svg>

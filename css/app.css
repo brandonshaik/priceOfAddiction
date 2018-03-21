@@ -1,0 +1,38 @@
+#headerimg {
+	max-width:100%;
+}
+
+body {
+	background-color: #A1A1AA;
+}
+
+.button{
+  background: #acb7c0;
+  color: white;
+  border-radius: 0.25em;
+  font-family: "Raleway", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.button:hover{
+  background-color: #1BAC1B;
+}
+
+#fixhed{
+  text-align:center;
+  font-size: 3.15em;
+  font-weight:bold;
+  color: #872237;
+}
+
+.futhed{
+  font-size: 2em;
+}
+
+#hed{
+  text-align:left;
+  font-size: 2em;
+  font-weight:bold;
+  color: #872237;
+}
